@@ -2889,7 +2889,7 @@
   {
     "name": "Sgurr nan Coireachan",
     "meaning": "Peak of the Corries",
-    "height": 953,
+    "height": 956,
     "latitude": 56.8901,
     "longitude": -5.3284,
     "region": "Lochaber",
@@ -3197,7 +3197,7 @@
   {
     "name": "Sgurr Dugh Mor",
     "meaning": "Big dark peak",
-    "height": 780,
+    "height": 944,
     "latitude": 57.0575,
     "longitude": -5.5559,
     "region": "Skye and Lochalsh",
@@ -3267,7 +3267,7 @@
   {
     "name": "Beinn a' Chroin",
     "meaning": "Hill of the pans",
-    "height": 942,
+    "height": 940,
     "latitude": 56.3682,
     "longitude": -4.7039,
     "region": "Southern Highlands",
@@ -3421,7 +3421,7 @@
   {
     "name": "Beinn Chabhair",
     "meaning": "Hill of the hawk",
-    "height": 932,
+    "height": 933,
     "latitude": 56.3221,
     "longitude": -4.6984,
     "region": "Southern Highlands",
@@ -3869,7 +3869,7 @@
   {
     "name": "Ruadh Stac Mor",
     "meaning": "Big red stack",
-    "height": 1010,
+    "height": 918,
     "latitude": 57.5324,
     "longitude": -5.4179,
     "region": "Torridon",
